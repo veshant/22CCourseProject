@@ -1,0 +1,346 @@
+Stanford ExploreCourses 2019-2020
+32 courses listed
+
+CRN: 33845
+Course: ACCT 212 Managerial Accounting: Base
+Instructor: Kepler, J. 
+Class Size: 72
+Units: 2
+Times: Mon, Fri 8:00 AM - 9:45 AM
+Location: GSB Patterson 107
+
+CRN: 33846
+Course: ACCT 212 Managerial Accounting: Base
+Instructor: Kepler, J. 
+Class Size: 72
+Units: 2
+Times: Mon, Fri 10:00 AM - 11:45 AM
+Location: GSB Patterson 107
+
+CRN: 31770
+Course: MKTG 344 Marketing Research
+Instructor: Sahni, N.
+Class Size: 30
+Units: 3
+Times: Mon, Fri 8:30 AM - 9:50 AM
+Location: GSB Faculty West 104
+
+CRN: 31771
+Course: MKTG 344 Marketing Research
+Instructor: Sahni, N.
+Class Size: 30
+Units: 3
+Times: Mon, Fri 10:30 AM - 11:50 AM
+Location: GSB Faculty West 104
+
+CRN: 31783
+Course: OB 345 Leadership Coaching
+Instructor: Cronkite, J.
+Class Size: 36
+Units: 3
+Times: Mon 8:30 AM - 11:20 AM
+Location: GSB Zambrano 301
+
+CRN: 3676
+Course: ENGR 14 Intro to Solid Mechanics
+Instructor: Sheppard, S.
+Class Size: 95
+Units: 3
+Times: Tue, Thu 1:30 PM - 2:50 PM
+Location: Departmental Room
+
+CRN: 31872
+Course: EDUC 120C Education and Society
+Instructor: Ramirez, F. 
+Class Size: 11
+Units: 4
+Times: Tue, Thu 9:30 AM - 11:20 AM
+Location: Ceras 123
+
+CRN: 34720
+Course: CS 1U Practical Unix
+Instructor: Zelenski, J.
+Class Size: 21
+Units: 1
+Times: Mon, Wed 10:30 AM - 12:20 PM
+Location: STLC119
+
+CRN: 9162
+Course: CME 100 Vector Calculus for Engineers (ENGR 154)
+Instructor: Le, H.
+Class Size: 185
+Units: 5
+Times: Tue, Thu 9:30 AM - 11:20 AM
+Location: Hewlett Teaching Center 201
+
+CRN: 7634
+Course: BIOE 42 Physical Biology
+Instructor: Sun, G.
+Class Size: 55
+Units: 4
+Times: Tue, Thu 3:00 PM - 4:20 PM
+Location: 300-300
+
+CRN: 17095
+Course: BIO 86 Cell Biology 
+Instructor: Brown, A.
+Class Size: 200
+Units: 4
+Times: Tue, Thu 10:30 AM - 11:50 AM
+Location: STLC111
+
+CRN: 19335
+Course: ARTSTUDI 140 Drawing I
+Instructor: Taylor-Tobin
+Class Size: 30
+Units: 4
+Times: Tue, Thu 10:30 AM - 12:20 PM
+Location: McMurtry Building rm 301
+
+CRN: 31991
+Course: ARTSTUDI 140 Drawing I
+Instructor: Chagoya, E.
+Class Size: 25
+Units: 4
+Times: Mon, Wed 1:30 PM - 3:20 PM
+Location: McMurtry Building rm 303
+
+CRN: 33074
+Course: DANCE 48 Ballet I: Introduction to Ballet
+Instructor: Pankevich, A.
+Class Size: 20
+Units: 1
+Times: Mon, Wed 1:30 PM - 2:50 PM
+Location: ROBLEG115
+
+CRN: 16050
+Course: HISTORY 1C Global History through Graphic Novels: The Modern Age
+Instructor: Mullaney, T.
+Class Size: 10
+Units: 4
+Times: Mon, Wed 1:30 PM - 2:50 PM
+Location: 200-002
+
+CRN: 20639
+Course: NBIO 101 Social and Ethical Issues in the Neurosciences 
+Instructor: Hurlbut, W.
+Class Size: 30
+Units: 3
+Times: Mon 7:30 PM - 9:20 PM
+Location: 80-113
+
+CRN: 31756
+Course: PSYC 54N Genes, Memes and Behavior
+Instructor: Hall, S.
+Class Size: 16
+Units: 3
+Times: Wed 2:30 PM - 5:20 PM
+Location: Psychiatry Building 2213
+
+CRN: 29985
+Course: EMED 110 Basic Cardiac Life Support & First Aid
+Instructor: Thompson, A.
+Class Size: 6
+Units: 1
+Times: Mon 6:00 PM - 10:00 PM
+Location: AOERC 103B
+
+CRN: 29984
+Course: EMED 110 Basic Cardiac Life Support & First Aid
+Instructor: Thompson, A.
+Class Size: 24
+Units: 1
+Times: Wed 6:00 PM - 10:00 PM
+Location: AOERC 103B
+
+CRN: 30352
+Course: EMED 110 Basic Cardiac Life Support & First Aid
+Instructor: Thompson, A.
+Class Size: 24
+Units: 1
+Times: Tue 6:30 PM - 10:30 PM
+Location: AOERC 103B
+
+CRN: 1095
+Course: STRAMGT 503 Spontaneous Management
+Instructor: Wheeler, S.
+Class Size: 30
+Units: 2
+Times: Mon, Wed, Fri 3:00 PM - 5:50 PM
+Location: GSB Zambrano 301
+
+CRN: 1933
+Course: EARTHSYS 155 Science of Soils
+Instructor: Fendorf, S.
+Class Size: 21
+Units: 3
+Times: Tue, Thu 10:30 AM - 11:50 AM
+Location: Thornt110
+
+CRN: 19582
+Course: AA 119N 3D Printed Aerospace Structures
+Instructor: Senesky, D.
+Class Size: 20
+Units: 3
+Times: Mon, Wed 1:30 PM - 2:20 PM
+Location: 160-120
+
+CRN: 19351
+Course: ARCHLGY 1 Introduction to Archaeology
+Instructor: Bauer, A.
+Class Size: 8
+Units: 4
+Times: Mon, Wed 9:30 AM - 11:20 AM
+Location: 370-370
+
+CRN: 8952
+Course: MS&E 140 Accounting for Managers and Entrepreneurs 
+Instructor: Lord, J.
+Class Size: 140
+Units: 3
+Times: Mon, Wed 9:30 AM - 11:20 AM
+Location: Shriram Ctr BioChemE 104
+
+CRN: 33829
+Course: MGTECON 300 Growth and Stabilization in the Global Economy
+Instructor: Jones, C.
+Class Size: 72
+Units: 3
+Times: Mon, Fri 8:30 AM - 9:50 AM
+Location: GSB Patterson 102
+
+CRN: 33829
+Course: MGTECON 300 Growth and Stabilization in the Global Economy
+Instructor: Jones, C.
+Class Size: 72
+Units: 3
+Times: Mon, Fri 8:30 AM - 9:50 AM
+Location: GSB Patterson 102
+
+CRN: 33830
+Course: MGTECON 300 Growth and Stabilization in the Global Economy
+Instructor: Jones, C.
+Class Size: 72
+Units: 3
+Times: Mon, Fri 10:30 AM - 11:50 AM
+Location: GSB Patterson 102
+
+CRN: 33831
+Course: MGTECON 300 Growth and Stabilization in the Global Economy
+Instructor: Jones, C.
+Class Size: 72
+Units: 3
+Times: Mon, Fri 1:30 PM - 2:50 PM 
+Location: GSB Patterson 102
+
+CRN: 33832
+Course: MGTECON 300 Growth and Stabilization in the Global Economy
+Instructor: Jones, C.
+Class Size: 72
+Units: 3
+Times: Tue, Thu 1:30 PM - 2:50 PM
+Location: GSB Patterson 102
+
+CRN: 33829
+Course: MGTECON 300 Growth and Stabilization in the Global Economy
+Instructor: Jones, C.
+Class Size: 72
+Units: 3
+Times: Mon, Fri 8:30 AM - 9:50 AM
+Location: GSB Patterson 102
+
+CRN: 14873
+Course: CHINLANG 1 First-Year Modern Chinese, First Quarter
+Instructor: Zeng, H.
+Class Size: 16
+Units: 5
+Times: Mon, Tue, Wed, Thu, Fri 9:30 AM - 10:20 AM
+Location: Littlefield 104
+
+CRN: 9999
+Course: HUMBIO 4A The Human Organism
+Instructor: Fisher, P.
+Class Size: 190
+Units: 5
+Times: Mon, Tue, Wed, Thu 9:30 AM - 10:20 AM
+Location: 320-105
+
+CRN: 19376
+Course: ENGLISH 12A Introduction to English III: Introduction to African American Literature
+Instructor: Rasberry, V.
+Class Size: 35
+Units: 4
+Times: Mon 3:00 PM - 5:50 PM
+Location: 260-113
+
+CRN: 10095
+Course: PHYSICS 65 Quantum and Thermal Physics
+Instructor: Gratta, G.
+Class Size: 45
+Units: 4
+Times: Mon, Wed, Fri 3:00 PM - 4:20 PM
+Location: Hewlett Teaching Center Rm 101
+
+CRN: 30656
+Course: AMSTUD 107 Introduction to Feminist, Gender, and Sexuality Studies
+Instructor: Crandall, M.
+Class Size: 7
+Units: 5
+Times: Tue, Thu 1:30 PM - 2:50 PM
+Location: 200-030
+
+CRN: 29129
+Course: PE 1 Indoor Cycling
+Instructor: Lillie, T.
+Class Size: 26
+Units: 1
+Times: Tue, Thu 9:30 AM - 10:20 AM
+Location: AOERC Cycling Room 
+
+CRN: 28155
+Course: COMPMED 80N Animal behavior: sex, death, and sometimes food
+Instructor: Garner, J
+Class Size: 17
+Units: 3
+Times: Tue, Thu 11:30 AM - 1:20 PM
+Location: E.D. Stone Edwards Bldg R358
+
+CRN: 30802
+Course: SURG 72Q Anatomy in Society
+Instructor: Fogel, B.
+Class Size: 14
+Units: 3
+Times: Wed 12:30 PM - 3:20 PM
+Location: CCSR0246
+
+CRN: 31618
+Course: APPPHYS 100 The Questions of Clay: Craft, Creativity and Scientific Process
+Instructor: Mabuchi, H.
+Class Size: 12
+Units: 5
+Meeting Times: Wed 9:30 AM - 11:20 AM
+Location: SpilkerEng&AppliedSci317
+
+CRN: 32124
+Course: APPPHYS 100 The Questions of Clay: Craft, Creativity and Scientific Process
+Instructor: Mabuchi, H.
+Class Size: 12
+Units: 5
+Meeting Times: Wed 3:30 PM - 5:20 PM 
+Location: SpilkerEng&AppliedSci317
+
+CRN: 9069
+Course: DESINST 215 The Design of Data
+Instructor: Carter, C.
+Class Size: 24
+Units: 3
+Times: Tue, Thu 9:30 AM - 11:20 AM
+Location: Departmental Room
+
+CRN: 2431
+Course: ENVRES 221 New Frontiers and Opportunities in Sustainability
+Instructor: Frehsee, C.
+Class Size: 40
+Units: 1
+Meeting Times: Fri 12:30 PM - 1:20 PM
+Location: Y2E2 111
